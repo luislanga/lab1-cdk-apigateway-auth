@@ -2,5 +2,5 @@
 
 #### For future reference only
 
-Notes: Install dependencies in src/lambdas/authorizers;
+Notes: Install dependencies in src/lambdas/authorizers;  
        Using existing Cognito User Pool.
